@@ -1,3 +1,5 @@
+# AUTHOR: ZYRO aka Jeevan
+
 import requests, json
 import random 
 import time
